@@ -72,7 +72,7 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 
 ## OUTPUT
 ```
-![EX 2 1](https://github.com/user-attachments/assets/8d40894a-bd22-4734-ab1b-cbea3074c716)
+![Uploading WhatsApp Image 2025-12-18 at 4.39.05 PM.jpeg…]()
 
 
 
